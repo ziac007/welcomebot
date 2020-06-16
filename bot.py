@@ -15,6 +15,7 @@ import python3pickledb as pickledb
 # Configuration
 BOTNAME = 'Alexa'
 TOKEN = '1248694065:AAHvb-ka7zUdGm6GzQtQ9rBOK-5mthpbil8'
+BOTAN_TOKEN = '1248694065:AAHvb-ka7zUdGm6GzQtQ9rBOK-5mthpbil8'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
             'part of. By default, only the person who invited the bot into ' \
